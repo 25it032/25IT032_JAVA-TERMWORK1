@@ -1,0 +1,3 @@
+Warning detected
+Error found again
+Application closed
